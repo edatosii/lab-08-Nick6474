@@ -24,8 +24,7 @@ public class Calculadora {
 
     /** @return el producto de a y b */
     public int multiplicar(int a, int b) {
-        retutrn a * b;
-        throw new UnsupportedOperationException("TODO: multiplicar");
+        return a * b;
     }
 
     /**
